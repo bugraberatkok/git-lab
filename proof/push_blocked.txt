@@ -1,1 +1,2 @@
-[Paste the actual error message here]
+! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/bugraberatkok/git-lab.git'
