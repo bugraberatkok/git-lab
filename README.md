@@ -10,7 +10,7 @@ Welcome to your hands-on Git practice! This is a **team lab** designed for 3-4 p
 
 | Name | GitHub Username |
 |------|-----------------|
-| Buğra Berat Kök | bugraberatkok |
+| Buğra Berat Kök | bugraberatkok | 
 | Amir Gherairi | AmirGhe |
 | Noël Pirson | pirsonoel |
 
