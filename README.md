@@ -12,7 +12,7 @@ Welcome to your hands-on Git practice! This is a **team lab** designed for 3-4 p
 |------|-----------------|
 | Buğra Berat Kök | bugraberatkok |
 | Amir Gherairi | AmirGhe |
-| [To be filled] | [To be filled] |
+| Noël Pirson | pirsonoel |
 
 
 ## 📝 Lab rules
