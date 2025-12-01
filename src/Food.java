@@ -3,7 +3,7 @@ public class Food {
         // Initial menu items - Students will add more below
         System.out.println("Hamburger - $7.99");
         System.out.println("Caesar Salad - $6.50");
-   	System.out.println("Kebab - $5.00");
+   	System.out.println("Kebab - $5.49");
 	System.out.println("Chicken Sandwich - $8.50");
 
     }
